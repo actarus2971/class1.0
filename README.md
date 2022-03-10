@@ -1,3 +1,11 @@
-<title><h1>class1.0</h1></title>
-Class 1.0 Landing Page
-https://www.ingv.it
+<!DOCTYPE html>
+<html>
+<head><title>HTML Elements Reference</title></head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+  <a href='https://www.ingv.it'>INGVHome</a>
+</body>
+</html>
+
